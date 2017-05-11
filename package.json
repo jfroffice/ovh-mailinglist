@@ -1,0 +1,15 @@
+{
+  "name": "ovh-mailinglist",
+  "version": "0.1.1",
+  "description": "OVH Mailinglist",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "<me@jfroffice.me>",
+  "license": "MIT",
+  "dependencies": {
+    "memoizee": "^0.4.5",
+    "ovh": "^2.0.1"
+  }
+}
